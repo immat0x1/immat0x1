@@ -1,6 +1,4 @@
-### Welcome to my GitHub, buddy
+<h2><img src="https://0x0.st/iDtU.gif" width="30px"> Welcome to the my GitHub, buddy </h2>
+ 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=immat0x1&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-###  Кто не разгадал, тот лох
-![zagadka](pS-J69s-fVw.jpg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=immat0x1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
