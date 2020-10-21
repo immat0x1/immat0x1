@@ -3,8 +3,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=immat0x1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![@oh_no_cr1nge](https://0x0.st/iDvK.jpg)](https://telegram.me/oh_no_cr1nge)
-
-<h2> My Telegram Channel - <img src="https://0x0.st/iDvK.jpg" width="80px"> </h2>
+<h2> My Telegram Channel - @oh_no_cr1nge <img src="https://0x0.st/iDvK.jpg" width="40px"> </h2>
  
  
